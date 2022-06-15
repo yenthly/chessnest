@@ -215,6 +215,17 @@ color: #D3A63C;
     width: auto;
         }
 
+            .bg p{
+  font-size: 0.5rem;
+padding-top: 28%;
+display: flex;
+justify-content: center;
+align-items: center;
+text-align: center;
+position: absolute;
+color: #D3A63C;
+  }
+
 }
 
 
@@ -224,6 +235,18 @@ color: #D3A63C;
     height: 25%;
     width: auto;
         }
+
+        .bg p{
+  font-size: 0.3rem;
+padding-top: 30%;
+display: flex;
+justify-content: center;
+align-items: center;
+text-align: center;
+position: absolute;
+color: #D3A63C;
+  }
+
       
 }
 
