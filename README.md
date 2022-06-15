@@ -1,4 +1,4 @@
-# chessnest.github.io
+# chessnest
 
 
 Gemaakt voor Technische Scholen Mechelen als GIP 2022
