@@ -316,8 +316,7 @@ padding-right: 5%;
 }
 
 .typotext{
-  display: flex;
-  align-items: center;
+
 
   padding-right: 20%;
   padding-left: 20%;
@@ -347,8 +346,6 @@ padding-bottom: 2%
 }
 
 .typotext{
-  display: flex;
-  align-items: center;
 
   padding-right: 10%;
   padding-left: 10%;
@@ -367,8 +364,6 @@ padding-bottom: 2%
 }
 
 .typotext{
-  display: flex;
-  align-items: center;
 
   padding-right: 10%;
   padding-left: 10%;
